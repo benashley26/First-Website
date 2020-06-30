@@ -5,4 +5,4 @@ Hi, this is my Rainbow Six siege website. I will provide updates on patch notes,
 ## Melusi
 
 Firstly, in Rainbow's Year 5 Season 2. Two new operators will be made available. Ace and Melusi. We will cover Melusi first.
-![Melusi!](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pcgamesn.com%2Fwp-content%2Fuploads%2F2020%2F05%2Fsteel-wave-update-melusi-loadout.jpg&imgrefurl=https%3A%2F%2Fwww.pcgamesn.com%2Frainbow-six-siege%2Fmelusi-nerf&tbnid=GFZ7XcvFINqJFM&vet=12ahUKEwjjkoPnrqnqAhWG34UKHXmCDJcQMygCegUIARCXAQ..i&docid=ALoSwddVoqtmhM&w=1920&h=1080&q=melusi&ved=2ahUKEwjjkoPnrqnqAhWG34UKHXmCDJcQMygCegUIARCXAQ)
+![Melusi](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pcgamesn.com%2Fwp-content%2Fuploads%2F2020%2F05%2Fsteel-wave-update-melusi-loadout.jpg&imgrefurl=https%3A%2F%2Fwww.pcgamesn.com%2Frainbow-six-siege%2Fmelusi-nerf&tbnid=GFZ7XcvFINqJFM&vet=12ahUKEwjjkoPnrqnqAhWG34UKHXmCDJcQMygCegUIARCXAQ..i&docid=ALoSwddVoqtmhM&w=1920&h=1080&q=melusi&ved=2ahUKEwjjkoPnrqnqAhWG34UKHXmCDJcQMygCegUIARCXAQ)
