@@ -1,3 +1,3 @@
-# Heading Level 1
+# Rainbow Six Siege Information Website
 
-Hi, this is my Rainbow Six siege and Rocket League website. I will provide updates on patch notes, meta changes and any new information made avaliable by the developers.
+Hi, this is my Rainbow Six siege website. I will provide updates on patch notes, meta changes and any new information made avaliable by the developers.
