@@ -21,7 +21,7 @@ The A chord is played using this [tab](https://www.justinguitar.com/guitar-lesso
 
 ###### What next?
 
-So you have mastered the first few open chords and are struggling with what to do now. Look no further. Now you should begin to learn the names of the frets on the guitars and notes they correspond to. You should also go onto Youtube  and find songs and riffs that you like and try and improve dexterity in your fingers. I will link two great Youtube teachers including [Marty Music](https://www.youtube.com/channel/UCmnlTWVJysjWPFiZhQ5uudg) and [GuitarLessons365](https://www.youtube.com/user/GuitarLessons365)
+So you have mastered the first few open chords and are struggling with what to do now. Look no further. Now you should begin to learn the names of the frets on the guitars and notes they correspond to. You should also go onto Youtube  and find songs and riffs that you like and try and improve dexterity in your fingers. I will link two great Youtube teachers including [Marty Music](https://www.youtube.com/channel/UCmnlTWVJysjWPFiZhQ5uudg) and [GuitarLessons365](https://www.youtube.com/user/GuitarLessons365).
 
 
 
