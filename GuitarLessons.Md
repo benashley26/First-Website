@@ -17,5 +17,11 @@ The first thing we will need to learn is how to read a tab. we will use these ta
 ##### Open Chords
 
 Open chords are the most basic chord voicing of the notes E,A,D,G and C. The E chord is played using this [tab](https://www.justinguitar.com/guitar-lessons/the-e-chord-bc-113).
-The A chord is played using this [tab](https://www.justinguitar.com/guitar-lessons/the-a-chord-bc-112). The D chord is played using this [tab](https://www.justinguitar.com/guitar-lessons/the-d-chord-bc-111). The G chord is played using this [tab](https://www.justinguitar.com/guitar-lessons/the-g-chord-bc-131) and finally, the C chord is played using this [tab](https://www.justinguitar.com/guitar-lessons/the-c-chord-bc-132).
+The A chord is played using this [tab](https://www.justinguitar.com/guitar-lessons/the-a-chord-bc-112). The D chord is played using this [tab](https://www.justinguitar.com/guitar-lessons/the-d-chord-bc-111). The G chord is played using this [tab](https://www.justinguitar.com/guitar-lessons/the-g-chord-bc-131) and finally, the C chord is played using this [tab](https://www.justinguitar.com/guitar-lessons/the-c-chord-bc-132).**These chords should be played fluently and being able to change between chords is required before moving on.You should also be able to name such chords.**
+
+###### What next?
+
+So you have mastered the first few open chords and are struggling with what to do now. Look no further. Now you should begin to learn the names of the frets on the guitars and notes they correspond to. You should also go onto Youtube  and find songs and riffs that you like and try and improve dexterity in your fingers. I will link two great Youtube teachers including [Marty Music](https://www.youtube.com/channel/UCmnlTWVJysjWPFiZhQ5uudg) and [GuitarLessons365](https://www.youtube.com/user/GuitarLessons365)
+
+
 
